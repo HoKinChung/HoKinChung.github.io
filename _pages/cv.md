@@ -12,18 +12,20 @@ redirect_from:
 Education
 ======
 * B.S. in Guangzhou, Guangdong University of Technology, 2017
+* Visiting Student in Singapore, National University of Singapore, 2018
 * M.S. in Guangzhou, Guangdong University of Technology, 2020
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 2019: Research Assistant
+  * CVTE
+  * Duties included: 
+    * studying Math Solve Problem using NLP method
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2021: Software Engineer
+  * HSBC Technology China
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
