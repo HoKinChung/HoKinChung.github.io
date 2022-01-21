@@ -18,11 +18,12 @@ Education
 
 Work experience
 ======
-* 2019: Research Assistant
-  * CVTE
+* 2019: Research Assistant (Internship)
+  * CVTE Centeral Research Institute
   * Duties included: 
-    * studying Math Solve Problem using NLP method
-  * Supervisor: Professor Git
+    * do research on Math Solve Problem using NLP method
+    * develop API using Named Entity Recognition(NER)
+  <!-- * Supervisor: Professor Git -->
 
 * 2021: Software Engineer
   * HSBC Technology China
