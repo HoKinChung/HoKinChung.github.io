@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * 2019: Research Assistant (Internship)
-  * CVTE Centeral Research Institute
+  * CVTE Central Research Institute
   * Duties included: 
     * do research on Math Solve Problem using NLP method
     * develop API using Named Entity Recognition(NER)
