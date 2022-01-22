@@ -13,7 +13,9 @@ Education
 ======
 * B.S. in Guangzhou, Guangdong University of Technology, 2017
 * Visiting Student in Singapore, National University of Singapore, 2018
+  * Supervisor: Junhua Li
 * M.S. in Guangzhou, Guangdong University of Technology, 2020
+  * Supervisor: Guoxu Zhou
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
@@ -27,17 +29,17 @@ Work experience
 
 * 2021: Software Engineer
   * HSBC Technology China
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <!-- * Duties included: Merging pull requests -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Python
+* Linux
+  <!-- * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Sub-skill 2.3 -->
+* C++/Java
+* Continuous Integration/Continuous Deployment(CI/CD)
 
 Publications
 ======

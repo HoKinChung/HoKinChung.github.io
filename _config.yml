@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "ch-CHN"
-title                    : "Ho Kin Chung / Site Title"
+title                    : "Ho Kin Chung / Home Page"
 title_separator          : "-"
 name                     : &name "Ho Kin Chung"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://hokinchung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HoKinChung/HoKinChung.github.io"
