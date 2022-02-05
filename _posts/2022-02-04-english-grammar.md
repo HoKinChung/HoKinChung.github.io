@@ -199,8 +199,99 @@ For example:
   - This suggests our work still won't be finished by the end of the day.  
 
 
+## How to Talk about the Future
+
+### Talk about Social Plans and Holidays
+- Talking or asking about plans
+  - Use **present continuous** to talk about the future
+  
+    Q: What are you doing *this weekend*?
+
+    A: I *'m working* in the morning, then I'm playing football in the park with some firends.
+    
+    Q: What are you doing *tomorrow*?
+    
+    A: I *'m going* for a beer with some people from work.
+    
+    Q: *Are you going* anywhere this summer?
+    
+    A: How long *are you staying* there?
+    
+    Q: Who *are you going* with?
+    
+    A: *I'm going to* Egypt for 10 days with a group of friends. We're *planning to do* some sightseeing around Cairo, then *we're going to do* a boat trip on the Nile.
+
+### Talking about long-term plans
+  - Use **present continuous** to talk about the future
+    - What are you going to do *after you graduate*?
+    - *I'm planning to* buy an apartment next year.
+    - *I'd like to* learn to scuba dive one day.
+    - *My dream is to* live near the sea, where it's sunny all year around.
+
+### Talking about schedules and time tables
+  - Use **present simple** to talk about schedules
+    - Our class *starts at* seven thirty.
+    - What time *is* your flight?
+
+### Making predictions
+  - something you are centain about.
+    - Use will
+      - I hope Russia *will* win, but I don't think they actually *will*.
+      - England *definitely won't* win it.
+    - Use going to
+      - He*'s going to* be unhappy when he finds out about this.
+    - Use likely or unlikely
+      - They're unlikely to hire you if you have so little experience.
+    - Use be bound to
+      - He's a really good cook; whatever he makes, it's bound to be delicious.
+  
+  - something you are uncertain about. 
+    - It *may be* ready next week.
+    - That *could* take a few days.
+    - That *might* help.
+    - *Perhaps* we *won't* need to change anything.
+    - *Maybe I'll* work overtime this weekend.
+  
 
 
+## Using Would Have, Could Have and Should Have
+
+### Would Have
+- Talk about **imagery past**
+  - If I had got better exam results, I would have got into Harvard.
+  - I wouldn't met my wife if I have decided to work in Foshan two years ago.
+  - If I hadn't forgotten my pen that day, I wouldn't have asked to borrow yours, and we wouldn't have become friends.
+
+### Could Have
+- Talk about **imagery past with possibility**, oppotunity and chances
+  - If I'd had more time, I could have finished everything.
+  - He could have won if he hadn't silpped at the start.
+- 'Could have' = **criticising** someone
+  - You *could have* told me sooner.
+  - You *could have* tidied up a bit.
+  - You *could have* worn something a bit nicer.
+- 'Could have' = you **aren't sure about something in the past**
+  - They *could have* mixed up the date.
+  - Where are they? I guess they *could have* missed the train.
+- 'Could have' = you were **lucky to avoid a bad situation**
+  - It's just a scratch, but you *could have* really hurt yourself.
+  - We were really late, and we *could have* missed out plane, but luckily we just made it.
+
+### Should Have
+- 'Should have' = **criticising** someone with something in the past
+  - You *should have* called me like you promised.
+  - He *should have* checked the recipe before he started cooking.
+  - You *shouldn't have* drunk so much at the wedding!
+  - She *shouldn't have* left everything to the last minute.
+- something you **regret** in the past
+  - I *shouldn't have* said that.
+- 'Should have' = something which **you expected to happen, but didn't**
+  - They *should have been* here by now.
+  - The plane *should have landed* at seven thirty.
+
+
+---
+## Adverbs in English
 
 ---
 
