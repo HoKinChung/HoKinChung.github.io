@@ -58,9 +58,8 @@ Use empty subject like 'it' and 'there'
 - There are several reasons why I have to say 'no' to this idea.
 - There didn't use to be so many homeless people here.
 
-___
-## How to Use Must, Have to and Should
 
+## How to Use Must, Have to and Should
 ### Must vs. Have To
 
 - Obligations
@@ -117,9 +116,8 @@ ___
 - Giving advice:
 - Giving your opinion:
 
----
-## English Verb Tenses Guide - Learn About Simple, Perfect, and Continuous Tenses
 
+## English Verb Tenses Guide - Learn About Simple, Perfect, and Continuous Tenses
 ### Overview of Verb Forms
 1. Time
    - past
@@ -199,8 +197,15 @@ For example:
   - This suggests our work still won't be finished by the end of the day.  
 
 
-## How to Talk about the Future
 
+
+
+
+
+
+
+
+## the Future
 ### Talk about Social Plans and Holidays
 - Talking or asking about plans
   - Use **present continuous** to talk about the future
@@ -254,8 +259,306 @@ For example:
   
 
 
-## Using Would Have, Could Have and Should Have
 
+
+
+
+
+
+
+
+## the Past
+### Talking about past experiences
+- I went to Singapore three years ago.
+- I didn't drink a lot last year.
+
+It often use '*past present prefect*' to talk about your experiences and then switch to '*past simple*' when you mention the time
+- Q: *Have* you ever *been* to Japan?
+- A: Yes, I *went* there *two years ago*, for my friend's wedding.
+
+### Comparing past and present
+**Use 'used to present verbs', 'would + present verbs' or 'any more' to talk about the action or habit that you do in the past but you don't do now**
+
+- He *used to* have a beard.
+  - He had a beard in the past but he hasn't the one now.
+- He *used to* live in Singapore.
+  - He lived in Singapore in the past but he doesn't now.
+
+- When we got home, Mum *would make* us a bit meal and then we'd watch news on TV together.
+- She doesn't live here *any more*.
+  - She lived here in the past but she doesn't live here now
+
+
+### Use 'past continuous' to Set the Scene of a Story
+- I *was living* in a small apartment at the time.
+
+### How to Show the Sequence of Events in a Story
+1. **Set the time reference**, fix the time when your story starts
+   - Last week...
+   - This happened two years ago, in summer.
+   - So, yesterday, I was walking down the street...
+2. Use **'past perfect' 'had done'** to talk about the things happened before the start of the story  
+  - *When I was 25*, I quit my job and decided to train as a pilot. I *had always wanted* to learn to fly.
+
+3. Use **'past simple'** to talk about the events of your story
+  - We *sat* in a traffic jam for ages.
+
+### How to talk about regrets past
+- *I wish I'd applied for* doctoral degree when I graduated from the university.
+- *If only I hadn't wasted* so much time.
+- I *could have* stayed in Singapore if I tried harder.
+
+
+
+
+
+
+
+
+
+
+## Present Simple
+### Talking about regular actions
+- Do you always eat so quickly?
+- I call my parents every week.
+
+### Talking about general truths
+- The moon goes around the Earth.
+
+### Talking about states (not only at this moment, but also in the past and in the future)
+- You seem a bit quiet today.
+- He has a lot of experience in his subject.
+#### With verbs of sensing, feeling, thinking or speaking
+- sensing: hear, see, smell
+- feeling: like, love, hate
+- thinking: know, realise, remember
+- speaking: promise, admit, advise
+  - I promise it won't happen again.
+
+### Talking about long-lasting situations
+- She lives with her friends.
+  - Describes a permanent or long-lasting situarion
+- She's living with her friends.
+  - Describes a temporary situation
+
+### Telling stories or jokes in conversational English
+Making stories sound more direct and exciting
+
+### Newpaper headlines
+
+### Commentary
+But longer actions in commentary:
+- He's warming up and getting ready to come on the pitch.
+
+### Future schedules
+- Class starts at 10:00.
+- What time does the meeting start?
+
+
+
+
+
+
+## Present Continuous
+https://www.youtube.com/watch?v=0djfJqWhnpY&list=PLD6t6ckHsruY_i7_rZhKcRBmXDdawiqUM&index=24
+
+
+
+
+
+
+
+## English Modal Verbs
+### Modal Verb Basic
+- can
+- could
+- may
+- might
+- will
+- would
+- shall
+- should
+- must
+
+They add information to other words, like possbility, centainty, obligation and so on.
+
+1. modal verb + infinitive without 'to'
+2. modal verbs don't have tenses
+3. modal verbs are auxiliary verbs
+
+### Meaning of Modal Verb
+- Asking prrmission
+- Expressing (im)possibility
+- Giving advice/suggestions
+- Expressing (un)centainty
+- Expressing probability
+- Expressing willingness/refusal
+- Making a request/offer
+- Expressing obligation
+- Expressing (in)ability
+
+#### Possibility vs. Probability
+- Probability has different levels. Something can be 20%, 50%... probable.
+- Possibility is binary. You can not say something is 20% possible.
+
+
+### Multiple Meanings of Modal Verb
+
+### Semi-Modal Verbs
+Semi-modal verbs also express the meaning of modal verbs
+- What time *are we supposed to* be there?
+- Ten, I think, but I think we *ought to* aim to arrive at least fifteen minutes before.
+- So, that means we *have to* leave here at... what? Nine?
+- We'*d better* leave eariler.
+- *Are we going to* drive, or take a taxi?
+- I'm not sure we'll *be able to* find a taxi, so I think driving is best.
+#### should vs. be supposed to
+- We're supposed to be there at ten.
+  - **Other people think** it is important to be there at ten, but maybe it isn't for you.
+- We should be there at ten.
+  - **You think it is important** to be there at ten.
+
+
+
+
+
+
+
+## Part of Speech
+1. Nouns
+2. Verbs
+3. Adjectives
+4. Adverbs
+5. Pronouns
+   - I, you, she, they
+   - Give me *two*, please.
+6. Prepositions
+   - *On* Wendesday
+   - *at* this moment
+7. Conjunctions
+8. Determiners
+   - a, the, this, hhat
+   - my, your, his, her
+   - *ten* bananas, *some* people, *both* of my brothers
+9. Interjections
+   - Wow, no way
+### Compound Parts of Speech in English
+The phrase can also be nouns, verbs, adjective and so on. For example: 
+
+(Add)verb (a small spoonful of brown sugar)noun, (then)conj (turn the heat down)vb (and)conj (stir the mixture gently)vb.
+
+
+
+
+
+
+
+## Articles in English
+
+### Meaning
+- 'The' = We know which one you mean
+  - show me *the book*
+    - you know which book I am talk about
+- To refer to shared experiences
+  - Do you remember *the hotel* we stayed at in Changsha?
+- When something is unique
+  - *The moon* goes around *the Earth*
+
+### How do You Know If a Noun Needs 'The'?
+- A singular, countable noun needs a determiner (The/A/That/This...)
+  - *The manager* told us more about *the plan* for *the New Year's party*.
+  - *The gorvernment* should do more to help *elderly people*.
+    - 'elderly people' isn't singular, uncountable and general.
+
+### When Not to Use 'The'
+- **Don't** use the to talk about **things in general**
+  - *Football* is more popular *basketball* in most *countries*.
+- **Don't** use 'the' with **name**
+  - I met ~~the~~ Alex.
+  - ~~The~~ Stockholm is the capital of ~~the~~ Sweden.
+  - Exception: the United State
+- **Don't** use 'the' **with other derterminers**
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Time Prepositions and Phrases
+### in/on/at
+- in December
+- in 2022
+- in the morning/afternoon/evening
+
+- on Saturday/Tuesday
+- on the 3rd
+- on the 20th of November
+
+- at six o'clock
+- at five thirty
+- at the weekend
+- at Christmas
+- at night
+
+### Changes and Deadlines
+### in
+- We'll arrive in three days
+  - If today is Monday, we will arrive on Thursday.
+- Your car will be ready in 30 minutes.
+  - If it's one o'clock now, your car will be ready at one thirty.
+
+- in the short term
+- in the long term
+
+### by vs. until
+- She'll be here *by* Friday.
+  - she'll be here any time before Friday. You don't know exactly when she will arrive, but you sure she won't arrive later than Friday.
+- She'll be here *until* Friday.
+  - she is here from now up to Friday, but she will leave on Friday.
+
+### at the Same Time
+- **during + noun**
+  - My phone rang *during* the meeting.
+  - *During* my university, I used to play badminton with my friends.
+- **while + subject + verb**
+  - I wasn't paying attention *while* he was explaining what to do.
+  - I like listening to music *while* I'm working.
+- **at the exact moment/at the same time**
+  - *At the exact moment* I called for a taxi, my battery died.
+  - I went to bathroom to take shower, but the phone rang *at the same time*.
+- **as/just as/as soon as**
+  - As I was browsing the websites in the bedroom, she was cooking in the kitchen.
+  - She'll come back home as soon as she get off the work.
+    - talking about the same time in the future
+
+### Periods and Duration
+- for + time period
+  - I'll be staying here *for six weeks*.
+  - I've worked in HSBC *for six months*.
+  - for ages
+    - I have been waiting for you for ages
+  - for a while
+- take
+  - It'll *take* less than ten minutes, I promise.
+  - How long does it *take* you to get to work?
+- over
+  - something happens in longer period time
+  - more conversational
+  - *Over* the last few weeks, I've been really trying to seek self-consolation.
+
+
+
+
+
+
+## Using Would Have, Could Have and Should Have
 ### Would Have
 - Talk about **imagery past**
   - If I had got better exam results, I would have got into Harvard.
@@ -290,8 +593,203 @@ For example:
   - The plane *should have landed* at seven thirty.
 
 
----
+
+
+
+## Uncountable Nouns
+### Rules
+- Uncountable Nouns can't be plural.
+  - ~~moneys~~
+  - ~~knowledge~~
+  - ~~rices~~
+- Use A Singular Verb with Uncountable Nouns
+- Don't use 'a' or 'an' with uncountable nouns (use some/any/...)
+- Use different words to talk about quantities with countable/uncountable nouns
+  - Countable: many, few, a lot of, lots of
+  - Uncountable: much, little, a lot of, lots of
+
+- Food/drink words
+  - coffee
+  - milk
+  - fruit
+  - meat
+- Collective nouns
+  - furniture
+  - equipment
+  - luggage
+  - traffic
+- Abstract nouns
+  - knowledge
+  - information
+  - advice
+  - progress
+
+- Uncountable + plural
+  - police
+  - clothes
+  - trousers
+  - scissors
+    - Careful with the scissors, they are sharp.
+  - news
+    - The news **is** ~~are~~ depressing at the moment.
+
+### Some Nouns Can Both Be Countable and Uncountable
+Some nouns can both be countable and uncountable, but their **meanings are diffient.** Generally, the **uncountable** one has **general** or collective meaning while the **countable** one has **specific** meaning.
+
+For example:
+- We eat a lot of *fish*.
+- There's *a fish* in the toilet.
+- He ate three whole *fish*.
+
+### Making Uncountable Nouns Countable
+Add **noun + of** to make an uncountable noun countable.
+
+- a *grain of* rice
+- a *bag of* rice
+- Can you get two of those big *bags of* rice?
+- a **piece** of advice (**piece** is often uesd to make uncountable nouns countable)
+- a amount of money
+- 
+
+
+
+
+
+
+
 ## Adverbs in English
+### Function
+- describe verbs
+- time/place
+- describe adjectives/adverbs
+- describe situation (the whole sentence)
+
+### Forming Adverbs
+#### from Adjectives
+* quite --> quite*ly* 
+* nice --> nice*ly* 
+* clear --> clear*ly*
+
++ healthy --> health*ily*
++ lazy --> laz*ily*
++ happy --> happ*ily*
+
+- He's a really *fast* worker. (adj.)
+- He works really *fast*. (adv.)
+
+- He's a *good* writer.
+- He *writes* well.
+#### More commonly, the adverbs just exist
+
+### Word Order with English Adverbs
+#### Five Types of Adverb
+1. manner
+2. time/place
+3. frequency
+4. degree
+5. comment adverbs
+
+#### Adverbs of Manner --> after the Verb/Verb Phrase
+- He drives *slowly*.
+- She didn't handle the situation *well*.
+
+#### Adverbs of Place/Time --> at the end of the Sentence/Phrase
+- Let's leave *in half an hour*.
+- Is there a bank *nearby*?
+- She was \[here\] \[ten minutes ago\].
+
+#### Adverbs of Frequency --> before the Main Verb (But after 'Be')
+- I *usually* get up early.
+- They *hardly ever* talk to each other.
+- He isn't *often* so talkative.
+
+#### Comment Adverbs --> at the beginning of the sentence
+- *Basically*, you've got two options.
+- *Eventually*, we had to admit that things weren't going how we expected.
+
+#### If the verb contains two parts, the adverbs is in the middle before the main verb
+- They didn't *even* tell us they'd be late.
+- I've *just* spoken to her.
+- He's *quickly* becoming one of our most valuable team members.
+- I can *probably* do it by next Wednesday.
+- She hasn't *always* been like that.
+
+#### Probably more than one position for the adverbs
+- He can be very moody *sometimes*.
+- *Sometimes*, he can be very moody.
+  - emphasize 'sometimes'
+
+
+
+
+
+
+
+
+
+## English Modal Verbs - May, Might, Could, Can - Talking About Possibilities
+### Present/future possibiities
+- They *could* be brothers, they looks so alike!
+- Where are my keys? It *might* be still in the car.
+- It's raining here, but it *may* be sunny there.
+#### understand talking about present/future from context
+- She *might* be there *already*.
+- She *might* be there *tomorrow*.
+#### Negative possibilities --> may/might, no way to use 'could'
+
+
+### Talk about General and Specific Possibilities
+- may, might, could --> specific possibilities (one person, one place, one time)
+  - She might be there tomorrow
+- can --> general possibilities (for many people, in many places, at many times)
+  - It *can* take two hours to get to the airport if the traffic's bad.
+
+### Past possibiities
+Use 'may/might/could + have + past participle'
+- Where is he? I guess he *might have missed* the train.
+- I don't know where the tickets are. I *may have left* them in the hotel.
+- What was that noise? I suppose it *could have been* the wind.
+#### Negative possibilities --> may/might, no way to use 'could'
+
+
+
+
+
+
+
+
+
+
+## How to Use Should, Ought to, Supposed to and Had Better
+### Should
+- advice
+- opinion
+- criticism
+  
+### 'Should' vs. 'Ought to'
+should = ought to
+formal/written/sometime strange: ought to
+
+### 'Suppose' vs. 'should'
+- I should be there at 9:00.
+  - you think this is important.
+- I'm supposed to be there at 9:00.
+  - someone else thinks this is important. You may not care.
+
+### should vs. had better
+- You *should* finish everything today.
+  - you still have choices
+- You'*d better* finish everything today.
+  - expressing a warning and threat
+  - if you don't do what I say, something bad will happen.
+
+**Had better + bad consequences**
+- You'd better finish everything today, or the boss won't be happy.
+- He'd better apologise, or I'll never talk to him again!
+
+
+
+
 
 ---
 
