@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Ho Kin Chung Homepage"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Nice to meet you here!
+My name is Jiancong He(何健聪). Currently I am a software engineer in The Hongkong and Shanghai Banking Corporation Limited (HSBC, 汇丰). My main area of research is **machine learning** and **natural lanugage processing**.
+
+Prior to joining the HSBC, I received my master's degree in Control Engineering at [Guangdong University of Technology](https://english.gdut.edu.cn/) in 2020. Prior to postgraduate, I obtained my bachelor's degree in [Automation](https://automation.gdut.edu.cn/en/) at Guangdong University of Technology in 2017.
+
+# Contact Info
+
+<i class="fa-solid fa-envelope"></i> Email: gdut_hjc@163.com
+
+<i class="fa fa-weixin"></i>WeChat: 14748139071
+
+
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v6.1.1/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v6.1.1/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css">
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
