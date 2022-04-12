@@ -17,7 +17,7 @@ Education
 * Visiting Student in Singapore, National University of Singapore, 2018
   * Supervisor: [Junhua Li](https://scholar.google.com.sg/citations?user=ulXjSEUAAAAJ&hl=zh-CN)
 * M.S. in Guangzhou, Guangdong University of Technology, 2020
-  * Supervisor: [Guoxu Zhou](https://teacher.gdut.edu.cn/zhouguoxu/en/index/118715/list/index.htm)
+  * Supervisor: [Prof. Guoxu Zhou](https://teacher.gdut.edu.cn/zhouguoxu/en/index/118715/list/index.htm)
 
 Research Experience
 ======
