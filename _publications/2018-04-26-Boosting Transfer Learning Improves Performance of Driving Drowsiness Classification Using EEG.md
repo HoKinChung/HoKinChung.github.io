@@ -10,6 +10,6 @@ citation: 'J. He et al., "Boosting Transfer Learning Improves Performance of Dri
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](http://hokinchung.github.io/files/Boosting Transfer Learning Improves Performance of Driving Drowsiness Classification Using EEG.pdf)
+[paper](http://hokinchung.github.io/files/Boosting Transfer Learning Improves Performance of Driving Drowsiness Classification Using EEG.pdf) [code](https://github.com/HoKinChung/boosting_transfer_learning)
 
 Recommended citation: J. He et al., "Boosting Transfer Learning Improves Performance of Driving Drowsiness Classification Using EEG," 2018 International Workshop on Pattern Recognition in Neuroimaging (PRNI), 2018, pp. 1-4, doi: 10.1109/PRNI.2018.8423951.
